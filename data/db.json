@@ -1,0 +1,75 @@
+{
+    "Dream": [
+      {
+        "id": "1",
+        "car": "Mazda RX-7",
+        "year": "1978-2002",
+        "type": "JDM",
+        "deskripsi": "Mazda RX-7 adalah mobil sport yang diproduksi oleh Mazda tahun 1978 sampai 2002. RX-7 pada awalnya menggunakan mesin wankel rotari berkapasitas silinder 1.146 cc (69,9 cu in) dengan penggerak roda belakang. RX-7 menggantikan RX-3. RX-7 awalnya adalah mobil sport dengan lampu utama tersembunyi dan hanya tersedia dengan versi coupé 2 kursi."
+      },
+      {
+        "id": "2",
+        "car": "Toyota Corolla AE86",
+        "year": "1983-1987",
+        "type": "JDM",
+        "deskripsi": "Cocok untuk balapan, mobil ini ringan, terjangkau, mudah dimodifikasi, dan dipadukan dengan transmisi manual lima kecepatan, diferensial selip terbatas opsional , suspensi depan MacPherson strut, putaran tinggi (7800 rpm), mesin kamera ganda dengan pendingin oli (misalnya, di AS), keseimbangan bobot depan/belakang mendekati 50/50, dan yang terpenting, tata letak mesin depan/penggerak belakang—pada saat konfigurasi ini memudar di seluruh industri."
+      },
+      {
+        "id": "3",
+        "car": "Ferrari SF90 Stradale",
+        "year": "2019-sekarang",
+        "type": "SUPER CAR",
+        "deskripsi": "Ferrari SF90 Stradale (Type F173) adalah mesin tengah PHEV (Kendaraan Listrik Hibrida Plug-in) mobil hyper yang diproduksi oleh Pabrikan mobil Italia Ferrari. Mobil tersebut memiliki nama yang sama dengan SF90 Mobil Formula Satu dengan SF90 berdiri untuk peringatan 90 tahun tim balap Scuderia Ferrari dan Stradale yang berarti dibuat untuk jalan raya."
+      },
+      {
+        "id": "4",
+        "car": "Porsche 911 GT3 RS",
+        "year": "2022",
+        "type": "SUPER CAR",
+        "deskripsi": "Pada bulan Mei 2018 Porsche memperkenalkan iterasi baru 911 GT3 R berdasarkan 991.2 GT3 RS, tersedia untuk tim pelanggan untuk musim 2019. Mesin boxer flat-six 4,0 liternya, sebagian besar identik dengan unit yang digunakan pada mobil jalanan GT3 dan GT3 RS serta mobil balap GT3 Cup dan RSR, mengembangkan sekitar. 405 kW (551 PS; 543 hp). Penyempurnaan meliputi diffuser yang lebih besar untuk aero yang lebih efisien, suspensi depan double wishbone yang diadopsi dari RSR, sistem shim yang memungkinkan perubahan penyetelan tanpa penyelarasan baru, ban depan yang lebih besar, kopling yang digerakkan secara elektro-hidraulik yang memungkinkan pelepasan pedal kopling, sel bahan bakar yang dapat dikonfigurasi untuk diisi ulang dari kiri atau kanan kendaraan tergantung pada tata letak sirkuit, kamera pandangan belakang dan sistem penghindaran tabrakan, kursi tetap dengan kotak pedal yang dapat digerakkan dan elemen benturan penyerap energi yang ditempatkan di pintu untuk meningkatkan keselamatan serta AC."
+      },
+      {
+        "id": "5",
+        "car": "Nissan Skyline GT-R",
+        "year": "1989-2002",
+        "type": "JDM",
+        "deskripsi": "Nissan GT-R pertama,dikenal dengan kode internal Nissan PGC10,diluncurkan pada 4 Februari 1969,dan eksklusif pada jaringan dealer Nissan Jepang bernama Nissan Prince Store[4] pada saat perusahaan Prince melebur dengan operasi Nissan pada 1966.Mobil ini awalnya hanya tersedia dalam versi sedan 4-pintu pada debut publik pada Tokyo Motor Show Oktober 1968.Mobil ini diiklankan dengan mobil balap Nissan R380 untuk menampilkan DNA balap Skyline.Mobil ini memiliki mesin SOHC 2.0 L S20 menghasilkan 160 hp (120 kw) pada 7.000 rpm dan torsi sebesar 177 N.m (131 ft.lbf) pada 5.600 rpm.Kekuatan mesin dihantarkan ke roda belakang (RWD) melalui transmisi manual 5-percepatan.Skyline GT-R pertama menggunakan suspensi semi-trailing arm strut.Model kupe baru tersedia pada 1971 dengan kode sasis KGPC10."
+      },
+      {
+        "id": "6",
+        "car": "Toyota Altezza",
+        "year": "1998-2005",
+        "type": "JDM",
+        "deskripsi": "Di Jepang, generasi pertama Lexus IS disebut Toyota Altezza. Diluncurkan pertama kali pada akhir tahun 1998 dalam bentuk Sedan 4-pintu. Model Hatchback semi-Wagon 5-pintu yang diberi nama Altezza Gita dipasarkan belakangan. Altezza dipasarkan dalam model RS200 bermesin 4 silinder 3S-GE, dan AS200 bermesin 6-silinder 1G-FE, keduanya berkapasitas mesin 2000 cc. Sedangkan model AS300 bermesin 3000 cc."
+      },
+      {
+        "id": "7",
+        "car": "Koenigsegg Jesko",
+        "year": "2021-present (125 units planned)",
+        "type": "SUPER CAR",
+        "deskripsi": "Koenigsegg Jesko dimotivasi oleh mesin V-8 5.0 liter twin-turbocharged yang menghasilkan 1.280 tenaga kuda dan torsi 1.106 lb-ft pada bahan bakar pompa. Pada E85, outputnya melonjak hingga 1.600 tenaga kuda. Koenigsegg mengklaim bahwa mesinnya memiliki poros engkol V-8 paling ringan di dunia. Dengan berat hanya 28 pon, poros engkol dibuat dari satu billet baja padat, dan tata letak bidang datarnya memfasilitasi penembakan melintasi bank mesin. Desain ini juga memberikan kesan mesin yang kaya dan berkesan. Hypercar asal Swedia ini hadir dengan girboks sembilan percepatan inovatif yang disebut Light Speed Transmission (LST)."
+      },
+      {
+        "id": "8",
+        "car": "Mercedes-AMG One",
+        "year": "Agustus 2022-present (rencana 275 unit)",
+        "type": "SUPER CAR",
+        "deskripsi": "Mercedes -AMG ONE (R50, sebelumnya dikenal sebagai Project One ) adalah mobil sport hybrid plug-in produksi terbatas yang diproduksi oleh Mercedes-AMG , menampilkan teknologi turunan Formula Satu . [4] [5] Mobil konsep Project One diluncurkan di International Motor Show Jerman 2017 oleh juara dunia F1 tujuh kali dan pembalap F1 Mercedes-AMG Petronas , Lewis Hamilton dan Kepala Mercedes-Benz , Dieter Zetsche."
+      },
+      {
+        "id": "9",
+        "car": "Bugatti Chiron",
+        "year": "2016-2023 (500 unit)",
+        "type": "HYPER CAR",
+        "deskripsi": "Bugatti Chiron adalah mobil sport dua tempat duduk bermesin tengah yang dirancang dan dikembangkan di Jerman oleh Bugatti Engineering GmbH [8] dan diproduksi di Molsheim , Prancis, oleh pabrikan mobil Prancis Bugatti Automobiles SAS Penerus Bugatti Veyron , [9] Chiron pertama kali ditampilkan di Geneva Motor Show pada 1 Maret 2016. [10] [11] Desain mobil ini awalnya dipratinjau dengan mobil konsep Bugatti Vision Gran Turismo yang diluncurkan di Frankfurt Auto Show 2015."
+      },
+      {
+        "id": "10",
+        "car": "Ferrari LaFerrari",
+        "year": "2013-2015 (499 unit)",
+        "type": "HYPER CAR",
+        "deskripsi": "LaFerrari adalah mobil sports hybrid dari pengembang otomotif asal Italia, Ferrari.[1] Mobil dan nama mobil ini secara resmi diluncurkan pada acara Geneva Auto Show 2013. LaFerrari hanya diproduksi sebanyak 499 unit dan setiap unitnya berharga lebih dari 1 juta US dollar."
+      }
+    ]
+  }
+  
